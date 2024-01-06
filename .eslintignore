@@ -1,0 +1,4 @@
+public/bit
+workspace.jsonc
+!.prettierrc.js
+!.vscode
