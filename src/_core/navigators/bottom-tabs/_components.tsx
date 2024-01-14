@@ -1,5 +1,5 @@
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import { useMemo } from "react";
+import React, { useMemo } from "react";
 import { IBottomTabsNavigatorProps } from "./_types";
 
 const Stack = createBottomTabNavigator();

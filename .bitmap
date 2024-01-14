@@ -26,14 +26,14 @@
     "navigators/bottom-tabs": {
         "name": "navigators/bottom-tabs",
         "scope": "phantomthief.renative",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "src/_core/navigators/bottom-tabs"
     },
     "navigators/native-stack": {
         "name": "navigators/native-stack",
         "scope": "phantomthief.renative",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "src/_core/navigators/native-stack"
     },

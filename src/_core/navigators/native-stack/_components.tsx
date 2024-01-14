@@ -1,5 +1,5 @@
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
-import { useMemo } from "react";
+import React, { useMemo } from "react";
 import { INativeStackNavigatorProps } from "./_types";
 
 const Stack = createNativeStackNavigator();
