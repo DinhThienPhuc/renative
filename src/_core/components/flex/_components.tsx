@@ -11,22 +11,20 @@ export const Flex = ({
   gap = 12,
   flex = 1,
   ...props
-}: IFlexProps) => {
-  return (
-    <View
-      {...props}
-      style={[
-        style,
-        {
-          flex,
-          flexDirection,
-          alignItems,
-          justifyContent,
-          gap,
-        },
-      ]}
-    >
-      {children}
-    </View>
-  );
-};
+}: IFlexProps) => (
+  <View
+    {...props}
+    style={[
+      style,
+      {
+        flex,
+        flexDirection,
+        alignItems,
+        justifyContent,
+        gap,
+      },
+    ]}
+  >
+    {children}
+  </View>
+);

@@ -12,7 +12,7 @@
     "components/flex": {
         "name": "components/flex",
         "scope": "phantomthief.renative",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "src/_core/components/flex"
     },
