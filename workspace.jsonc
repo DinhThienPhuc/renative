@@ -1,7 +1,7 @@
 /**
  * this is the main configuration file of your bit workspace.
  * for full documentation, please see: https://bit.dev/reference/workspace/workspace-json
- **/{
+ **/ {
   "$schema": "https://static.bit.dev/teambit/schemas/schema.json",
   /**
    * main configuration of the Bit workspace.
@@ -34,7 +34,7 @@
   /**
    * comment in to include generator templates in your workspace.
    * browse more dev environments: https://bit.dev/docs/getting-started/composing/dev-environments
-  **/
+   **/
   // "teambit.generator/generator": {
   //   "envs": [
   //     "bitdev.node/node-env",
